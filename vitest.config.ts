@@ -5,8 +5,10 @@ export default defineConfig({
   test: {
     globals: true,
     environment: "jsdom",
+    silent: 'passed-only',
     include: ["src/**/*.{test,spec}.{ts,tsx}"],
     reporters: [
+      "default",
       [
         "junit",
         {
