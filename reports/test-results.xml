@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="Vitest Tests" tests="1" failures="0" errors="0" time="0.001644769">
+    <testsuite name="src/is-email.test.ts" timestamp="2025-08-15T09:03:48.044Z" hostname="tienpvse" tests="1" failures="0" errors="0" skipped="0" time="0.001644769">
+        <testcase classname="src/is-email.test.ts" name="isEmail &gt; should return true for valid email addresses" time="0.000869565">
+        </testcase>
+    </testsuite>
+</testsuites>
